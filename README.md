@@ -1,12 +1,12 @@
 # Developer Portfolio
 
-### Want to create a professional portfolio but cannot figure out how to? Use Developer Portfolio and create your own personalised portfolio today! our easily customisable, user friendly website is designed to cater to developers and freelancers a like.
+### Welcome to my portfolio on GitHub! This web app is designed to showcase my skills and experience as a developer. You'll find information about my educational background, the projects I've worked on, and my contact details.
 
 ---
 
 # Demo :camera:
 
-![profile_image](https://user-images.githubusercontent.com/38554511/233833163-61f0c819-64c3-44c3-b9a2-e87ac80ab500.PNG)
+![profile_image](https://user-images.githubusercontent.com/38554511/233833292-22e8211a-02f4-4992-97a9-ba97a240d9b4.PNG)
 
 ## View live demo [here](#).
 
