@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/moiwa-portfolio/static/css/main.f3418907.css",
-    "main.js": "/moiwa-portfolio/static/js/main.e17d476e.js",
+    "main.js": "/moiwa-portfolio/static/js/main.64f6e948.js",
     "static/js/787.02b30a03.chunk.js": "/moiwa-portfolio/static/js/787.02b30a03.chunk.js",
     "static/media/IMG_1.jpg": "/moiwa-portfolio/static/media/IMG_1.c51ad76b894129e43595.jpg",
     "static/media/IMG_2.jpg": "/moiwa-portfolio/static/media/IMG_2.add4c26233f3c1c1a0a4.jpg",
@@ -97,11 +97,11 @@
     "static/media/vuetifyjs.svg": "/moiwa-portfolio/static/media/vuetifyjs.8a22a3ec81ad62e97094feab6e7ee0fb.svg",
     "static/media/bulma.svg": "/moiwa-portfolio/static/media/bulma.5910d4416e077262d0264109649ab214.svg",
     "main.f3418907.css.map": "/moiwa-portfolio/static/css/main.f3418907.css.map",
-    "main.e17d476e.js.map": "/moiwa-portfolio/static/js/main.e17d476e.js.map",
+    "main.64f6e948.js.map": "/moiwa-portfolio/static/js/main.64f6e948.js.map",
     "787.02b30a03.chunk.js.map": "/moiwa-portfolio/static/js/787.02b30a03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3418907.css",
-    "static/js/main.e17d476e.js"
+    "static/js/main.64f6e948.js"
   ]
 }
