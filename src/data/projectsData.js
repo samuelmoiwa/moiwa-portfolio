@@ -3,6 +3,7 @@ import shop_moiwa from '../images/shop_moiwa.PNG'
 import chill_movies from '../images/chill_movies.PNG'
 import awesome_books from '../images/awesome_books.PNG'
 import leader_board from '../images/leader_board.PNG'
+import aeriflyt from '../images/aeroflyt.png'
 
 
 export const projectsData = [
@@ -37,7 +38,7 @@ export const projectsData = [
         image: chill_movies
     },
     {
-        id: 3,
+        id: 4,
         projectName: 'Awesome Books',
         projectDesc: `This app is a book library app, that allows users to add and remove books from a list.`,
         tags: ['JavaScript ES6', 'DateTime', 'CSS'],
@@ -46,13 +47,22 @@ export const projectsData = [
         image: awesome_books
     },
     {
-        id: 3,
+        id: 5,
         projectName: 'Leader Board',
         projectDesc: `This app is a leaderboard app, that allows users to add scores to the list, and soft the scores on acendening order.`,
         tags: ['JavaScript ES6', 'HTML', 'CSS'],
         code: 'https://github.com/samuelmoiwa/Leaderboard',
         demo: 'https://samuelmoiwa.github.io/Leaderboard/',
         image: leader_board
+    },
+    {
+        id: 6,
+        projectName: 'Aeroflyt',
+        projectDesc: `This app is a drone pilot page. this app display a basic page of a drone company.`,
+        tags: ['JavaScript ES6', 'JSX', 'React JS', 'Tailwind CSS'],
+        code: '',
+        demo: 'https://aeroflyt.netlify.app',
+        image: aeriflyt
     }
 ]
 
